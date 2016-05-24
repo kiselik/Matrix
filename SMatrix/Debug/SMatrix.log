@@ -1,0 +1,23 @@
+﻿Сборка начата 24.11.2015 13:16:56.
+     1>Проект "C:\Users\Asus\Documents\Visual Studio 2015\Projects\SMatrix\SMatrix\SMatrix.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp
+         MyForm.cpp
+     1>c:\users\asus\documents\visual studio 2015\projects\smatrix\smatrix\MyForm.h(219): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\asus\documents\visual studio 2015\projects\smatrix\smatrix\MyForm.h(221): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\asus\documents\visual studio 2015\projects\smatrix\smatrix\MyForm.h(223): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+     1>c:\users\asus\documents\visual studio 2015\projects\smatrix\smatrix\tvector.h(83): warning C4172: возвращение адреса локальной или временной переменной : Nol
+     1>c:\users\asus\documents\visual studio 2015\projects\smatrix\smatrix\tvector.h(83): warning C4172: возвращение адреса локальной или временной переменной : Nol
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fp"Debug\SMatrix.pch" /Fa"Debug\\" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /analyze- /errorReport:prompt "C:\Users\Asus\AppData\Local\Temp\.NETFramework,Version=v4.5.2.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Asus\Documents\Visual Studio 2015\Projects\SMatrix\Debug\SMatrix.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\SMatrix.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Asus\Documents\Visual Studio 2015\Projects\SMatrix\Debug\SMatrix.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\MyForm.obj
+         Debug\TMatrix5.obj
+         Debug\TVector.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         SMatrix.vcxproj -> C:\Users\Asus\Documents\Visual Studio 2015\Projects\SMatrix\Debug\SMatrix.exe
+     1>Сборка проекта "C:\Users\Asus\Documents\Visual Studio 2015\Projects\SMatrix\SMatrix\SMatrix.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.10
